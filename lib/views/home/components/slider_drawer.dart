@@ -3,7 +3,6 @@ import 'package:flutter/material.dart';
 import 'package:task_master/extensions/space_exs.dart';
 import 'package:task_master/utils/app_colors.dart';
 import 'package:task_master/views/home/components/details_page.dart';
-import 'package:task_master/views/home/components/home_page.dart';
 import 'package:task_master/views/home/components/profile_page.dart';
 import 'package:task_master/views/home/components/setting_page.dart';
 import 'package:task_master/views/home/home_view.dart';
